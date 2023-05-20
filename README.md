@@ -1,2 +1,2 @@
 # Lab 7 - Starter
-jackmontoro.github.io/Lab7_Starter
+[lab link](jackmontoro.github.io/Lab7_Starter)
