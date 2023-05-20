@@ -1,2 +1,2 @@
 # Lab 7 - Starter
-jackmontoro.github.io/cse110-lab-7
+jackmontoro.github.io/Lab7_Starter
